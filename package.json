@@ -32,7 +32,7 @@
     "appium-adb": "^2.5.0",
     "appium-android-bootstrap": "^2.6.0",
     "appium-android-ime": "^2.0.0",
-    "appium-base-driver": "^2.0.0",
+    "appium-base-driver": "https://github.com/eduramiba/appium-base-driver#1.5.crosswalk",
     "appium-chromedriver": "^2.9.0",
     "appium-logger": "^2.1.0",
     "appium-support": "^2.0.9",
